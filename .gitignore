@@ -1,0 +1,5 @@
+tensorflow-notebook.sif
+.cache
+.ipynb_checkpoints
+.vscode
+*.csv
