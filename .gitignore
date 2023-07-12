@@ -1,4 +1,8 @@
+my_model_dir/
+*/**/__pycache__/
 tensorflow-notebook.sif
+my_model
+*.0
 .cache
 .ipynb_checkpoints
 .vscode
