@@ -1,0 +1,3 @@
+[submodule "SelfExplain"]
+	path = SelfExplain
+	url = git@github.com:hxtruong6/SelfExplain.git
