@@ -1,6 +1,8 @@
 [submodule "SelfExplain"]
 	path = SelfExplain
 	url = git@github.com:hxtruong6/SelfExplain.git
+	banch = dev
 [submodule "BERTopic"]
 	path = BERTopic
 	url = git@github.com:hxtruong6/BERTopic.git
+	banch = dev

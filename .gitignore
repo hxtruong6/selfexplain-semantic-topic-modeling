@@ -5,5 +5,4 @@ my_model
 *.0
 .cache
 .ipynb_checkpoints
-.vscode
 *.csv
