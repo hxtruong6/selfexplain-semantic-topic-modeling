@@ -6,3 +6,5 @@ my_model
 .cache
 .ipynb_checkpoints
 *.csv
+dataset
+*/bertopic_*
